@@ -1,0 +1,40 @@
+body{
+    background-color: #f6e0e0;
+    color: #9e48c5;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #eea2a2;
+    color: #9e48c5;
+    text-align: center;
+    padding: 1%;
+}
+h1{
+line-height: 200%;
+margin: 1.5em 0;
+}
+h2{
+    font-size: 200%;
+    color: #9e48c5;
+}
+footer{
+    background-color: #eea2a2;
+    color: #9e48c5;
+    text-align: center;
+    font-style: italic;
+    padding: 2em 0;
+}
+.camp{
+    color: #;
+    font-style: ;
+    font-weight: ;
+}
+#wrapper{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+    background-color; #:
+}
